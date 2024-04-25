@@ -6,4 +6,6 @@
 - 💞️我正在寻求合作...
 - 📫email：haitong5908@gmail.com
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%E6%AC%A2%E8%BF%8E%E5%A4%A7%E5%AE%B6%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84Space)](https://git.io/typing-svg)
+
 ![](https://user-images.githubusercontent.com/99116438/190890847-0da67399-fd85-4eaa-83a7-276ca609e11a.png)
